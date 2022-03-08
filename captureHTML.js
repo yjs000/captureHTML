@@ -1,9 +1,9 @@
 /***
  * html2canvas import필요
- * <script src="${ctx}/resource/js/facMng/cmmn/html2canvas.js"></script>
+ * <script src="${ctx}/resource/js/.../cmmn/html2canvas.js"></script>
  * 
  * canvg 3.0.x import필요
- * <script src="${ctx}/resource/js/facMng/cmmn/canvg/umd.js"></script>
+ * <script src="${ctx}/resource/js/.../cmmn/canvg/umd.js"></script>
  * 
  * 지도 등 외부이미지 캡쳐시
  * controller에 Html2CanvasProxy.java 필요
